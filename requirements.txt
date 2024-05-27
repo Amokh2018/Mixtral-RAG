@@ -1,0 +1,12 @@
+langchain_community
+tiktoken
+langchainhub
+langchain_mistralai
+chromadb
+langchain
+langgraph
+ipykernel
+python-dotenv
+bs4
+gpt4all
+streamlit
